@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Boumouzouna Brahim Vall
+- 👋 Hi, I’m <strong>Boumouzouna Brahim Vall</strong>
 - 🌱 I'm currently studying software engineering 
-- ✨I’m junior full stack developer✨  
+- ✨I’m a junior full stack developer✨  
 
 <!---
 BoumouzounaBrahimVall/BoumouzounaBrahimVall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
