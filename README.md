@@ -66,9 +66,9 @@ Here are some ideas to get you started: -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoumouzounaBrahimVall&layout=compact&theme=vision-friendly-dark&card_width=510px" title="spring"  alt="spring" width="30%"   />&nbsp; 
 </div>
 ---
+
+### <h2>:fire: My Trophies :</h2>
 ![Top Trophy](https://github-profile-trophy.vercel.app/?username=BoumouzounaBrahimVall&theme=onedark)
-
-
 
 ---
 
