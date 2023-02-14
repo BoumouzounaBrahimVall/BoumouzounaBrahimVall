@@ -43,19 +43,14 @@ Here are some ideas to get you started: -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" title="JavaScript" alt="JavaScript" width="80" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" title="MySQL"  alt="MySQL" width="70" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" title="Git" alt="Git" width="70" height="40"/>&nbsp;
- 
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" title="Bootstrap"  alt="Bootstrap" width="70" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" title="npm"  alt="npm" width="70" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white" title="Eclipse" alt="Eclipse" width="80" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white" title="Visual_Studio"  alt="Visual_Studio" width="80" height="40"/>
-  
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white" title="Angular"  alt="Angular" width="60" height="40" />&nbsp;
- 
    <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white" title="jQuery"  alt="jQuery" width="60" height="40" />&nbsp;
-
-   <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" title="nodejs"  alt="nodejs" width="60" height="40" />&nbsp;
-  
-   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" title="spring"  alt="spring" width="60" height="40" />&nbsp; 
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" title="nodejs"  alt="nodejs" width="60" height="40" />&nbsp;
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" title="spring"  alt="spring" width="60" height="40" />&nbsp; 
 
 </div>
 
@@ -63,16 +58,17 @@ Here are some ideas to get you started: -->
 
 ### <h2>:fire: My Stats :</h2>
 
-[![Gauri's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=BoumouzounaBrahimVall&show_icons=true&theme=slateorange&bg_color=000000&card_width=500px)](https://github.com/BoumouzounaBrahimVall/github-readme-statsslateorange)
-
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BoumouzounaBrahimVall&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BoumouzounaBrahimVall&theme=dark&background=000000&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=BoumouzounaBrahimVall&show_icons=true&theme=slateorange&bg_color=000000&card_width=510px" title="spring"  alt="spring" width="50%" height="100" />&nbsp; 
+<img src="https://streak-stats.demolab.com?user=BoumouzounaBrahimVall&theme=dark&background=000000&date_format=M%20j%5B%2C%20Y%5D" title="spring"  alt="spring" width="50%"  height="100"/>&nbsp; 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoumouzounaBrahimVall&layout=compact&theme=vision-friendly-dark&card_width=450px)](https://github.com/BoumouzounaBrahimVall/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoumouzounaBrahimVall&layout=compact&theme=vision-friendly-dark&card_width=510px" title="spring"  alt="spring" width="100%"   />&nbsp; 
+</div>
 ---
-![Top Trophy](https://github-profile-trophy.vercel.app/?username=BoumouzounaBrahimVall&theme=oldie)
+![Top Trophy](https://github-profile-trophy.vercel.app/?username=BoumouzounaBrahimVall&theme=onedark)
+
 
 
 ---
