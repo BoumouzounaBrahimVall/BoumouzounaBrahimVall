@@ -64,7 +64,7 @@ Here are some ideas to get you started: -->
 <img src="https://github-readme-stats.vercel.app/api?username=BoumouzounaBrahimVall&show_icons=true&theme=slateorange&bg_color=000000&card_width=510px" title="spring"  alt="spring" width="415" height="100" />&nbsp; 
 <img src="https://streak-stats.demolab.com?user=BoumouzounaBrahimVall&theme=dark&background=000000&date_format=M%20j%5B%2C%20Y%5D" title="spring"  alt="spring" width="415"  height="100"/>&nbsp; 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoumouzounaBrahimVall&layout=compact&theme=vision-friendly-dark&card_width=510px" title="spring"  alt="spring" width="830"   />&nbsp; 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoumouzounaBrahimVall&layout=compact&theme=vision-friendly-dark&card_width=510px" title="spring"  alt="spring" width="415"   />&nbsp; 
 </div>
 ---
 ![Top Trophy](https://github-profile-trophy.vercel.app/?username=BoumouzounaBrahimVall&theme=onedark)
