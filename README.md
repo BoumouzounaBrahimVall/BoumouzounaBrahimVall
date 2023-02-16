@@ -3,22 +3,11 @@
 ---
 
 ### <h2>:man_technologist: About Me :</h2>
-<!--
-**gitusergb/gitusergb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started: -->
-<!--- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with -->
-<!--- 😄 Pronouns: 
-- 🌱 I’m currently learning HTML,CSS,JavaScript -->
-
-
 
  <img align="right" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width="300" />
  
-- 📚 I'm currently pursuing my degree in Computer Science and have experience working with various programming languages such as Java, Python, and JavaScript.
-- 🤝 I enjoy contributing to open-source projects and believe in the power of collaboration and teamwork to solve complex problems.
+- 📚 I'm currently pursuing my degree in Computer Science and have experience working with various programming languages such as Java, C/C++, Python, and JavaScript.
 - ⏰ In my free time, I like to experiment with new technologies and explore different software development methodologies.
-- 💻🚀 I also enjoy participating in hackathons and coding challenges to test my skills and push my limits.
 - 📩 If you're interested in collaborating on a project or discussing the latest tech trends, feel free to reach out to me. I'm always up for a good conversation!
 - :zap: In my free time, I solve problems on hackerrank
 - :iphone:  connect with me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brahim-vall-boumouzouna-639b29226/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](brahimvall.boumouzouna@etu.fstm.ac.ma)
