@@ -3,8 +3,7 @@
 ---
 
 ### <h2>:man_technologist: About Me :</h2>
-
- <img align="right" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width="300" />
+<a href="https://app.daily.dev/boumouzounabrahimvall"><img src="https://api.daily.dev/devcards/ee49454536d74e5a9d88d2108f361767.png?r=0aj" width="400" alt="Boumouzouna Brahim Vall's Dev Card"/></a>
  
 - 📚 I'm currently pursuing my degree in Computer Science and have experience working with various programming languages such as Java, C/C++, Python, and JavaScript.
 - ⏰ In my free time, I like to experiment with new technologies and explore different software development methodologies.
