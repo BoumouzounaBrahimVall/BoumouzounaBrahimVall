@@ -3,8 +3,7 @@
 ---
 
 ### <h2>:man_technologist: About Me :</h2>
-<a href="https://app.daily.dev/boumouzounabrahimvall"><img align="right" src="https://api.daily.dev/devcards/ee49454536d74e5a9d88d2108f361767.png?r=0aj" width="300" alt="Boumouzouna Brahim Vall's Dev Card"/></a>
- 
+ <a href="https://app.daily.dev/boumouzounabrahimvall"><img align="right" src="https://api.daily.dev/devcards/ee49454536d74e5a9d88d2108f361767.png?r=jyf" width="300" alt="Boumouzouna Brahim Vall's Dev Card"/></a>
 - 📚 I'm currently pursuing my degree in Computer Science and have experience working with various programming languages such as Java, C/C++, Python, and JavaScript.
 - ⏰ In my free time, I like to experiment with new technologies and explore different software development methodologies.
 - 📩 If you're interested in collaborating on a project or discussing the latest tech trends, feel free to reach out to me. I'm always up for a good conversation!
