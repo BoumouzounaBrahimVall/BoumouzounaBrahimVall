@@ -20,7 +20,7 @@
 **Languages:** `Java` · `Kotlin` · `TypeScript` · `JavaScript` · `Dart` · `C/C++` · `SQL`  
 **Mobile & Web:** `Flutter` · `React Native` · `React` · `Next.js` · `Vue` · `Android SDK`  
 **Backend:** `Spring Boot` · `NestJS` · `Express`  
-**Data & Infra:** `PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `Kafka` · `Supabase` · `Firebase` · `Strapi`  
+**Data & Infra:** `PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `Kafka` · `Supabase` · `Firebase` · `Strapi` · `Payload`    
 **DevOps:** `Docker` · `GitHub Actions` · `GitLab CI/CD` · `Vercel` · `Railway`
 
 ---
