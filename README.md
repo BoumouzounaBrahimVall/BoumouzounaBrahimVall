@@ -63,7 +63,7 @@ Software Engineer with **3+ years of experience** building scalable **mobile, we
   👉 https://blog.theodo.ma/power-up-your-powerapps-proven-techniques-for-peak-performance/
 
 - 🌐 More articles on my blog  
-  👉 _[My Blog Page](#)_ <!-- replace with your actual blog link -->
+  👉 _[My Blog Page](https://brahim-vall-boumouzouna.up.railway.app/)_ <!-- replace with your actual blog link -->
 
 ---
 
