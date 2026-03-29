@@ -15,7 +15,7 @@ Software Engineer with **3+ years of experience** building scalable **mobile, we
 - I focus on **performance & scalability** with measurable impact  
 - I enjoy **leading technical decisions**, mentoring, and improving team workflows  
 
-📍 Based in **Casablanca, Morocco** — open to remote opportunities  
+📍 From **Mauritania**, based in **Casablanca, Morocco**
 
 ---
 
