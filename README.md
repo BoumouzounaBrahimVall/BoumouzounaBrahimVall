@@ -84,10 +84,8 @@ Software Engineer with **3+ years of experience** building scalable **mobile, we
 
 ### 🔥 GitHub stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BoumouzounaBrahimVall&show_icons=true&theme=slateorange&bg_color=00000000" height="150"/>
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=BoumouzounaBrahimVall&theme=dark&background=00000000" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoumouzounaBrahimVall&layout=compact&theme=vision-friendly-dark&bg_color=00000000" height="150"/>
 </p>
 
 ---
